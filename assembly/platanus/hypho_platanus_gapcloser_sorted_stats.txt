@@ -1,0 +1,52 @@
+
+---------------- Information for assembly 'hypho_platanus_gapcloser_sorted.fasta' ----------------
+
+
+                                         Number of scaffolds      53358
+                                     Total size of scaffolds   68540538
+                                            Longest scaffold     461740
+                                           Shortest scaffold        100
+                                 Number of scaffolds > 1K nt       4757   8.9%
+                                Number of scaffolds > 10K nt       1406   2.6%
+                               Number of scaffolds > 100K nt         82   0.2%
+                                 Number of scaffolds > 1M nt          0   0.0%
+                                Number of scaffolds > 10M nt          0   0.0%
+                                          Mean scaffold size       1285
+                                        Median scaffold size        121
+                                         N50 scaffold length      29190
+                                          L50 scaffold count        516
+                                                 scaffold %A      25.50
+                                                 scaffold %C      24.45
+                                                 scaffold %G      24.85
+                                                 scaffold %T      24.84
+                                                 scaffold %N       0.37
+                                         scaffold %non-ACGTN       0.00
+                             Number of scaffold non-ACGTN nt          0
+
+                Percentage of assembly in scaffolded contigs      65.7%
+              Percentage of assembly in unscaffolded contigs      34.3%
+                      Average number of contigs per scaffold        1.1
+Average length of break (>25 Ns) between contigs in scaffold         64
+
+                                           Number of contigs      57146
+                              Number of contigs in scaffolds       5671
+                          Number of contigs not in scaffolds      51475
+                                       Total size of contigs   68297543
+                                              Longest contig     275360
+                                             Shortest contig         94
+                                   Number of contigs > 1K nt       7288  12.8%
+                                  Number of contigs > 10K nt       1675   2.9%
+                                 Number of contigs > 100K nt          9   0.0%
+                                   Number of contigs > 1M nt          0   0.0%
+                                  Number of contigs > 10M nt          0   0.0%
+                                            Mean contig size       1195
+                                          Median contig size        124
+                                           N50 contig length      14097
+                                            L50 contig count       1138
+                                                   contig %A      25.59
+                                                   contig %C      24.53
+                                                   contig %G      24.94
+                                                   contig %T      24.93
+                                                   contig %N       0.02
+                                           contig %non-ACGTN       0.00
+                               Number of contig non-ACGTN nt          0
