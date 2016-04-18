@@ -1,0 +1,2 @@
+sample_name	bioproject_accession	title	library_ID	design_description	library_strategy	library_source	library_selection	library_layout	platform	instrument_model	filetype	filename1	filename2
+Hyphochytrium catenoides Illumina HiSeq	PRJEA61035	Hyphochytrium catenoides Illumina HiSeq	6EQUJ5-67	WGS Illumina HiSeq DNA for Hyphochytrium	WGS	GENOMIC	RANDOM	PAIRED	ILLUMINA	Illumina HiSeq 2000	fastq	Hyph_ATGTCA_L006_R1_001.fastq.gz	Hyph_ATGTCA_L006_R2_001.fastq.gz
