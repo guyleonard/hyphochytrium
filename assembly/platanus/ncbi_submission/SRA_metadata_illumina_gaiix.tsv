@@ -1,0 +1,2 @@
+sample_name	bioproject_accession	title	library_ID	design_description	library_strategy	library_source	library_selection	library_layout	platform	instrument_model	filetype	filename1	filename2	filename3	filename4
+Hyphochytrium catenoides Illumina Gaiix	PRJEA61035	Hyphochytrium catenoides Illumina Gaiix	6EQUJ5	WGS Illumina GAIIx DNA for Hyphochytrium	WGS	GENOMIC	RANDOM	PAIRED	ILLUMINA	Illumina Genome Analyzer IIx	fastq	s_1_1_sequence.fastq.gz	S_1_2_sequence.fastq.gz	S_2_1_sequence.fastq.gz	S_2_2_sequence.fastq.gz
