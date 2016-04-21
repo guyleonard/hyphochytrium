@@ -1,0 +1,14 @@
+19/04/2016 11:31:52:919 Welcome to InterProScan-5.18-57.0
+19/04/2016 11:31:58:149 Running InterProScan v5 in STANDALONE mode...
+19/04/2016 11:32:10:095 Loading file /storage/guy/hyphochytrium/assembly/platanus/ncbi_submission/interproscan/../../../../gene_predictions/proteins/2016/second_pass.all.maker.proteins.fasta
+19/04/2016 11:32:10:099 Running the following analyses:
+[ProSiteProfiles-20.119,Coils-2.2.1,PIRSF-3.01,Hamap-201511.02,Pfam-29.0,ProSitePatterns-20.119,SUPERFAMILY-1.75,ProDom-2006.1,SMART-7.1,Gene3D-3.5.0,TIGRFAM-15.0,PRINTS-42.0]
+Available matches will be retrieved from the pre-calculated match lookup service.
+
+Matches for any sequences that are not represented in the lookup service will be calculated locally.
+19/04/2016 11:36:38:787 Uploaded/Stored 18434 sequences for analysis
+19/04/2016 15:48:51:273 25% completed
+19/04/2016 20:03:30:853 50% completed
+19/04/2016 20:39:02:981 75% completed
+19/04/2016 20:46:44:513 90% completed
+19/04/2016 21:09:58:046 100% done:  InterProScan analyses completed
