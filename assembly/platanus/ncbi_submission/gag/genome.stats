@@ -1,0 +1,39 @@
+                                 Reference Genome     Modified Genome     
+                                 ----------------     ---------------     
+Total sequence length            60978586             60978586            
+Number of genes                  18075                18075               
+Number of mRNAs                  18481                18481               
+Number of exons                  85813                85813               
+Number of introns                67332                67332               
+Number of CDS                    18481                18481               
+Overlapping genes                1475                 1475                
+Contained genes                  191                  191                 
+CDS: complete                    0                    13423               
+CDS: start, no stop              0                    2576                
+CDS: stop, no start              0                    1255                
+CDS: no stop, no start           18481                1227                
+Total gene length                32490427             32490427            
+Total mRNA length                33423084             33423084            
+Total exon length                19555519             19555519            
+Total intron length              14002229             14002229            
+Total CDS length                 18759642             18759642            
+Shortest gene                    18                   18                  
+Shortest mRNA                    18                   18                  
+Shortest exon                    3                    3                   
+Shortest intron                  4                    4                   
+Shortest CDS                     6                    6                   
+Longest gene                     26636                26636               
+Longest mRNA                     26636                26636               
+Longest exon                     13956                13956               
+Longest intron                   5194                 5194                
+Longest CDS                      26130                26130               
+mean gene length                 1798                 1798                
+mean mRNA length                 1809                 1809                
+mean exon length                 228                  228                 
+mean intron length               208                  208                 
+mean CDS length                  1015                 1015                
+% of genome covered by genes     53.3                 53.3                
+% of genome covered by CDS       30.8                 30.8                
+mean mRNAs per gene              1                    1                   
+mean exons per mRNA              5                    5                   
+mean introns per mRNA            4                    4                   
