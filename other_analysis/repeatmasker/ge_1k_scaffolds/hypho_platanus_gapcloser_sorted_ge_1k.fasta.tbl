@@ -1,0 +1,59 @@
+==================================================
+file name: hypho_platanus_gapcloser_sorted_ge_1k.fasta
+sequences:          4758
+total length:   60978586 bp  (60732830 bp excl N/X-runs)
+GC level:         49.51 %
+bases masked:    5809838 bp ( 9.53 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements         8481       751455 bp    1.23 %
+   SINEs:              647        36444 bp    0.06 %
+   Penelope            710        43830 bp    0.07 %
+   LINEs:             2210       163522 bp    0.27 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex         27         1124 bp    0.00 %
+     R1/LOA/Jockey     225        30118 bp    0.05 %
+     R2/R4/NeSL          5          254 bp    0.00 %
+     RTE/Bov-B          12          684 bp    0.00 %
+     L1/CIN4           571        46517 bp    0.08 %
+   LTR elements:      5624       551489 bp    0.90 %
+     BEL/Pao            73         4532 bp    0.01 %
+     Ty1/Copia        1121       195989 bp    0.32 %
+     Gypsy/DIRS1      1289       126330 bp    0.21 %
+       Retroviral     2936       198643 bp    0.33 %
+
+DNA transposons      13200      1093085 bp    1.79 %
+   hobo-Activator     4257       341008 bp    0.56 %
+   Tc1-IS630-Pogo       75         4222 bp    0.01 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac             13         1164 bp    0.00 %
+   Tourist/Harbinger   742        52861 bp    0.09 %
+   Other (Mirage,        2          160 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:         1156        73083 bp    0.12 %
+
+Total interspersed repeats:     1917623 bp    3.14 %
+
+
+Small RNA:             612        37614 bp    0.06 %
+
+Satellites:           4637       708841 bp    1.16 %
+Simple repeats:      35234      2024361 bp    3.32 %
+Low complexity:      15085      1273660 bp    2.09 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be root          
+RepeatMasker version open-4.0.6 , quick mode
+                                     
+run with rmblastn version 2.2.27+
+RepBase Update 20150807, RM database version 20150807
