@@ -1,0 +1,87 @@
+# Following instrustions from https://www.ncbi.nlm.nih.gov/genbank/wgs_gapped/
+
+tbl2asn -i hyphochytrium_catenoides_genome_scaffolds.fasta -M n -Z discrepancy.txt -a r5k -l paired-ends
+
+But it needs a lot more information!
+
+https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/
+
+
+FIRST WE NEED TO UPLOAD THE READ INFORMATION SO THAT WE CAN ASSIGN A BIOSAMPLE ID in the template for the tbl2asn files
+
+Then we also need NCBI's feature table format (FFS just use GFF)
+
+Luckily some nice people have created this https://github.com/genomeannotation/GAG.git - Genome Annotation Generator that will read a GFF3 and convert it to the table format! YAY.
+
+We are also going to use ANNIE - https://genomeannotation.github.io/annie/ - to give annotation information to GAG - but first we need to do InterProScan and SwissProt blasts
+
+Before we can upload a set of scaffold/contigs/genome we need to have upload the sequence libraries as BioSamples to a BioProject. Our BioProject was already created - PRJEA61035 - so,
+we just have to upload our two read libraries as BioSamples.
+
+# NCBI
+
+We are not doing this for Hyphochytrium as a previous assembly, biosample and bioproject was already created via EBI. Therefore we need to do a not so easy update!
+
+## 1. Upload Sequence Libraries
+ * https://www.ncbi.nlm.nih.gov/sra/docs/submitportal/
+ * for a start I can't login within Chrome - Maybe adblock or https everywhere is blocking. It works on FireFox.
+ * First you need to make a "template" for submission - https://submit.ncbi.nlm.nih.gov/biosample/template/
+ * Then you need a sample sheet for SRA metadata.
+ * Fill in all the information on the web-upload forms and the two .tsv files
+ * Set a release date: 18 May 2017
+ * Check for submission status here - http://trace.ncbi.nlm.nih.gov/Traces/sra_sub/sub.cgi?view=submissions
+
+ * GAiix: Submission: SUB1471891 and SRA: SRR3399845 and Sample: SAMN04867460
+ * HiSEq: Submission: SUB1472106 and SRA: SRR3401404 and Sample: SAMN04868781
+
+ * For some reason NCBI's email say that the SRA is SRP073437 for both! http://www.ncbi.nlm.nih.gov/sra/SRP073437x
+
+## 2. Genome Submission
+ * Upload <1Kbp scaffolds + mito
+ * Use https://submit.ncbi.nlm.nih.gov/subs/wgs/
+
+## 3. Gene Predictions - Transcripts + Amino Acids
+ * Use tbl2asn
+ * Create Template File (*.sbt) - http://www.ncbi.nlm.nih.gov/WebSub/template.cgi
+ *
+ * Maybe this command:
+ * ./linux64.tbl2asn -t template.sbt -p ./ -j "[organism=Hyphochytrium catenoides]" -V vb -y "Scaffolds larger than 1Kbp have been annotated" -Z discrepancy_report.txt
+
+# EBI
+
+* Instead I have been instructed to get ready an EMBL file format version of the data!?!
+* I need to upload the HiSeq reads but I don't have access to the bioproject, do I create another "study" - emailing!
+
+
+# Annotation Steps
+
+We should really remap the default MAKER output names to something more readable/simple, especially for tbl2asn stage
+
+## Create Map
+* ~/maker/bin/maker_map_ids --prefix Hypho2016_ hyphochytrium_catenoides_genome_ge_1k_no_seqs.gff > hyphochytrium_catenoides_genome_map_ids.txt
+* Remap Fasta and GFF3
+ * ~/maker/bin/map_fasta_ids hyphochytrium_catenoides_genome_map_ids.txt hyphochytrium_catenoides_predicted_proteins_renamed.fasta
+ * ~/maker/bin/map_gff_ids hyphochytrium_catenoides_genome_map_ids.txt hyphochytrium_catenoides_genome_ge_1k_no_seqs_renamed.gff
+ * Remove end of line ';' as they will break ANNIE - sed -i 's/;$//g' hyphochytrium_catenoides_genome_ge_1k_no_seqs_renamed.gff
+
+## SwissProt BLASTp
+blastp -query hyphochytrium_catenoides_predicted_proteins_renamed.fasta -db uniprot_sprot.fasta -outfmt 6 -num_threads 24 -evalue 1e-10 -out all_maker_proteins_vs_swissprot_1e-10.tsv
+
+## InterProScan
+interproscan.sh -f TSV,XML,GFF3 -goterms -i hyphochytrium_catenoides_predicted_proteins_renamed.fasta -pa | tee interproscan.log
+
+## Annie
+
+### InterproScan
+python3 ~/annie/annie.py -ipr second_pass.all.maker.proteins.fasta.tsv
+
+### BLASTp
+python3 ~/annie/annie.py -b ../all_maker_proteins_vs_swissprot_1e-10.tsv -g ../hyphochytrium_catenoides_genome_ge_1k.gff -db /storage/swissprot/uniprot_sprot.fasta
+
+## GAG
+The default output of GFF files from MAKER includes the FASTA sequences. GAG does not like this, you have to remove it from the bottom of the file... 
+python ~/GAG/gag.py --fasta hyphochytrium_catenoides_genome_ge_1k_scaffolds.fasta \
+--gff hyphochytrium_catenoides_genome_ge_1k_no_seqs.gff \
+--anno annie/annie_blast_swissprot_output.tsv \
+--fix_terminal_ns --fix_start_stop --flag_introns_shorter_than 10
+
