@@ -1,0 +1,229 @@
+Acanthamoeba castellanii
+Aplanochytrium kerguelense
+Arabidopsis thaliana
+Aurantiochytrium limacinum
+Batrachochytrium dendrobatidis
+Bigelowiella natans
+Blastocystis hominis
+Bodo saltans
+Caenorhabditis elegans
+Capsaspora owczarzaki
+Chlamydomonas reinhardtii
+Chondrus crispus
+Chromera velia
+Ciona intestinalis
+Cryptococcus neoformans
+Cryptosporidium parvum
+Cyanidioschyzon merolae
+Cyanophora paradoxa
+Dictyostelium discoideum
+Drosophila melanogaster
+Ectocarpus siliculosus
+Emiliania huxleyi
+Entamoeba histolytica
+Fonticula alba
+Giardia intestinalis
+Guillardia theta
+Homo sapiens
+Hyaloperonospora arabidopsidis
+Klebsormidium flaccidum
+Laccaria bicolor
+Mastigamoeba balamuthi
+Monocercomonoides sp.
+Monosiga brevicollis
+Mortierella verticillata
+Mus musculus
+Naegleria gruberi
+Nannochloropsis gaditana
+Neurospora crassa
+Ostreococcus lucimarinus
+Perkinsus marinus
+Phaeodactylum tricornutum
+Physcomitrella patens
+Phytophthora ramorum
+Plasmodium falciparum
+Populus trichocarpa
+Porphyridium purpureum
+Reticulomyxa filosa
+Rhizophagus irregularis
+Rozella allomycis
+Saccharomyces cerevisiae
+Salpingoeca rosetta
+Schizosaccharomyces pombe
+Sphaeroforma arctica
+Symbiodinium minutum
+Takifugu rubripes
+Tetrahymena thermophila
+Thalassiosira pseudonana
+Thecamonas trahens
+Toxoplasma gondii
+Trichomonas vaginalis
+Trichoplax adhaerens
+Trypanosoma brucei
+Tuber melanosporum
+Ustilago maydis
+Vitrella brassicaformis
+Acidianus hospitalis W1
+Acidilobus saccharovorans 345-15
+Aciduliprofundum boonei T469
+Aeropyrum pernix K1
+Archaeoglobus fulgidus DSM 4304
+archaeon Loki
+Caldisphaera lagunensis DSM 15908
+Caldivirga maquilingensis IC-167
+Candidatus Caldiarchaeum subterraneum
+Candidatus Korarchaeum cryptofilum OPF8
+Candidatus Micrarchaeum acidiphilum ARMAN-2
+Candidatus Nanosalina sp. J07AB43
+Candidatus Nanosalinarum sp. J07AB56
+Candidatus Nitrosopelagicus brevis
+Candidatus Parvarchaeum acidophilus
+Cenarchaeum symbiosum A
+Desulfurococcus fermentans DSM 16532
+Ferroglobus placidus DSM 10642
+Ferroplasma acidarmanus fer1
+Fervidicoccus fontis Kam940
+Halalkalicoccus jeotgali B3
+Haloarcula hispanica ATCC 33960
+Halobacterium salinarum R1
+Haloferax mediterranei ATCC 33500
+Halogeometricum borinquense DSM 11551
+Halomicrobium mukohataei DSM 12286
+Halopiger xanaduensis SH-6
+Haloquadratum walsbyi DSM 16790
+Halorhabdus utahensis DSM 12940
+Halorubrum lacusprofundi ATCC 49239
+Haloterrigena turkmenica DSM 5511
+Halovivax ruber XH-70
+Hyperthermus butylicus DSM 5456
+Ignicoccus hospitalis KIN4/I
+Ignisphaera aggregans DSM 17230
+Metallosphaera sedula DSM 5348
+Methanobacterium formicicum DSM 3637
+Methanobrevibacter ruminantium M1
+Methanobrevibacter sp. AbM4
+Methanocaldococcus fervens AG86
+Methanocella conradii HZ254
+Methanococcoides burtonii DSM 6242
+Methanococcus maripaludis S2
+Methanocorpusculum labreanum Z
+Methanoculleus bourgensis MS2
+Methanofollis liminatans DSM 4140
+Methanohalobium evestigatum Z-7303
+Methanohalophilus mahii DSM 5219
+Methanolobus psychrophilus R15
+Methanomethylovorans hollandica DSM 15978
+Methanoplanus limicola DSM 2279
+Methanopyrus kandleri AV19
+Methanoregula formicicum SMSP
+Methanosaeta thermophila PT
+Methanosalsum zhilinae DSM 4017
+Methanosarcina acetivorans C2A
+Methanosphaera stadtmanae DSM 3091
+Methanosphaerula palustris E1-9c
+Methanospirillum hungatei JF-1
+Methanothermobacter marburgensis str. Marburg
+Methanothermococcus okinawensis IH1
+Methanothermus fervidus DSM 2088
+Methanotorris igneus Kol 5
+Nanoarchaeum equitans Kin4-M
+Natrialba magadii ATCC 43099
+Natrinema pellirubrum DSM 15624
+Natronobacterium gregoryi SP2
+Natronococcus occultus SP4
+Natronomonas pharaonis DSM 2160
+Nitrosopumilus maritimus SCM1
+Picrophilus torridus DSM 9790
+Pyrobaculum arsenaticum DSM 13514
+Pyrococcus yayanosii CH1
+Pyrolobus fumarii 1A
+Salinarchaeum sp. Harcht-Bsk1
+Staphylothermus hellenicus DSM 12710
+Sulfolobus islandicus M.14.25
+Thermococcus barophilus MP
+Thermofilum pendens Hrk 5
+Thermogladius cellulolyticus 1633
+Thermoplasma acidophilum DSM 1728
+Thermoplasmatales archaeon BRNA1
+Thermoproteus uzoniensis 768-20
+Thermosphaera aggregans DSM 11486
+Vulcanisaeta distributa DSM 14429
+Agrobacterium fabrum str. C58
+Amycolatopsis mediterranei U32
+Aquifex aeolicus VF5
+Azotobacter vinelandii CA
+Azotobacter vinelandii DJ
+Bacillus anthracis str. Ames
+Bacillus anthracis str. Sterne
+Bacillus cereus ATCC 14579
+Bacillus subtilis subsp. subtilis str. 168
+Bacillus thuringiensis serovar konkukian str. 97-27
+Bacteroides thetaiotaomicron VPI-5482
+Bifidobacterium longum NCC2705
+Bordetella pertussis Tohama I
+Borrelia burgdorferi B31
+Bradyrhizobium diazoefficiens USDA 110
+Burkholderia cenocepacia
+Burkholderia dolosa
+Burkholderia pseudomallei K96243
+Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819
+Caulobacter crescentus CB15
+Chlamydia trachomatis 434/Bu
+Chlamydophila pneumoniae CWL029
+Chlorobium tepidum TLS
+Chloroflexus aurantiacus J-10-fl
+Clostridium acetobutylicum ATCC 824
+Clostridium botulinum A str. Hall
+Clostridium difficile 630
+Corynebacterium glutamicum ATCC 13032
+Coxiella burnetii RSA 493
+Deinococcus radiodurans R1
+Desulfovibrio vulgaris str. Hildenborough
+Dictyoglomus turgidum DSM 6724
+Enterobacter cloacae subsp. cloacae ATCC 13047
+Enterococcus faecalis V583
+Escherichia coli IAI39
+Escherichia coli O104 H4 str. 2011C-3493
+Escherichia coli O157 H7 str. Sakai
+Escherichia coli O83 H1 str. NRG 857C
+Escherichia coli str. K-12 substr. MG1655
+Escherichia coli UMN026
+Flavobacterium psychrophilum JIP02/86
+Francisella tularensis subsp. tularensis SCHU S4
+Fusobacterium nucleatum subsp. nucleatum ATCC 25586
+Geobacter sulfurreducens PCA
+Gloeobacter violaceus PCC 7421
+Haemophilus influenzae Rd KW20
+Helicobacter pylori 26695
+Ketogulonicigenium vulgare WSH-001
+Klebsiella pneumoniae subsp. pneumoniae HS11286
+Lactobacillus acidophilus NCFM
+Lactobacillus plantarum WCFS1
+Lactobacillus salivarius UCC118
+Lactococcus lactis subsp. lactis Il1403
+Listeria monocytogenes EGD-e
+Moorella thermoacetica ATCC 39073
+Mycobacterium bovis AF2122/97
+Mycobacterium leprae TN
+Mycoplasma mycoides subsp. mycoides SC str. PG1
+Pseudomonas aeruginosa PAO1
+Rhodobacter sphaeroides 2.4.1
+Rhodopirellula baltica SH 1
+Rhodospirillum rubrum ATCC 11170
+Rickettsia prowazekii str. Madrid E
+Salinibacter ruber DSM 13855
+Salmonella enterica subsp. enterica serovar Typhi str. CT18
+Shewanella oneidensis MR-1
+Shigella dysenteriae Sd197
+Shigella flexneri 2a str. 301
+Streptococcus pneumoniae R6
+Streptococcus suis BM407
+Thermanaerovibrio acidaminovorans DSM 6589
+Thermodesulfovibrio yellowstonii DSM 11347
+Thermosynechococcus elongatus BP-1
+Thermotoga maritima MSB8
+Vibrio cholerae O1 biovar El Tor str. N16961
+Vibrio fischeri ES114
+Xanthomonas campestris pv. campestris str. ATCC 33913
+Yersinia enterocolitica subsp. enterocolitica 8081
+Yersinia pestis CO92
