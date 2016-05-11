@@ -51,7 +51,7 @@ We are not doing this for Hyphochytrium as a previous assembly, biosample and bi
 
 * Instead I have been instructed to get ready an EMBL file format version of the data!?!
 * I need to upload the HiSeq reads but I don't have access to the bioproject, do I create another "study" - emailing!
-
+* Also it needs to be GZIPED. Which I found out only after going through all of the web upload and form filling. NOWHERE does it mention this little requirement. FFS.
 
 # Annotation Steps
 
