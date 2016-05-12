@@ -1,22 +1,22 @@
-# Following instrustions from https://www.ncbi.nlm.nih.gov/genbank/wgs_gapped/
+# Preamble
 
-tbl2asn -i hyphochytrium_catenoides_genome_scaffolds.fasta -M n -Z discrepancy.txt -a r5k -l paired-ends
+We sequenced a genome. Stick a sample of your organism on an Illumina machine, get ATGCs, quality check them and match them together. Done? Nope. Do some gene predictions. Okay. Done? NO!
 
-But it needs a lot more information!
+You got to upload this data to NCBI or the EBI. Easy right? Not really. How long have you got?
 
-https://www.ncbi.nlm.nih.gov/genbank/tbl2asn2/
+NCBI/EBI don't really want GFF files (output from gene prediction programs). They don't really want FASTA files either (your scaffolds/contigs are in this format, but not the annotated ones).
 
+Okay so what do they want? Well their own formats of course. Le sigh.
 
-FIRST WE NEED TO UPLOAD THE READ INFORMATION SO THAT WE CAN ASSIGN A BIOSAMPLE ID in the template for the tbl2asn files
+This is the long needlessly complicated process to go from a FASTA file and a file of Gene Features (GFF) to something that might be remotely acceptable for upload to EBI.
 
-Then we also need NCBI's feature table format (FFS just use GFF)
+Luckily some nice people have created this [GAG](https://github.com/genomeannotation/GAG.git) - Genome Annotation Generator that will read a GFF3 and convert it to the NCBI table format which is not useful to us, but it doesn't hurt to use for a nicer to deal with gff.
 
-Luckily some nice people have created this https://github.com/genomeannotation/GAG.git - Genome Annotation Generator that will read a GFF3 and convert it to the table format! YAY.
+We are also going to use their other program [ANNIE](https://genomeannotation.github.io/annie) - to give annotation information to GAG - but first we need to do InterProScan and SwissProt blasts.
 
-We are also going to use ANNIE - https://genomeannotation.github.io/annie/ - to give annotation information to GAG - but first we need to do InterProScan and SwissProt blasts
+Before we can upload a set of scaffold/contigs/genome we need to have uploaded the sequence libraries as BioSamples to a BioProject. Our BioProject was already created - PRJEA61035 - which complicates things further
 
-Before we can upload a set of scaffold/contigs/genome we need to have upload the sequence libraries as BioSamples to a BioProject. Our BioProject was already created - PRJEA61035 - so,
-we just have to upload our two read libraries as BioSamples.
+You have to contact EBI and let them know and they do something on their end and then I create a new BioProject and BioSample!?!
 
 # NCBI
 
@@ -54,37 +54,43 @@ But we can upload the HiSeq data here - why not complicate it more eh? ;)
 We should really remap the default MAKER output names to something more readable/simple
 
 ### Create Map
- * ~/maker/bin/maker_map_ids --prefix Hypho2016_ hyphochytrium_catenoides_genome_ge_1k_no_seqs.gff > hyphochytrium_catenoides_genome_map_ids.txt
- * Remap Fasta and GFF3
- * ~/maker/bin/map_fasta_ids hyphochytrium_catenoides_genome_map_ids.txt hyphochytrium_catenoides_predicted_proteins_renamed.fasta
- * ~/maker/bin/map_gff_ids hyphochytrium_catenoides_genome_map_ids.txt hyphochytrium_catenoides_genome_ge_1k_no_seqs_renamed.gff
- * Remove end of line ';' as they will break ANNIE - sed -i 's/;$//g' hyphochytrium_catenoides_genome_ge_1k_no_seqs_renamed.gff
+    ~/maker/bin/maker_map_ids --prefix Hypho2016_ hyphochytrium_catenoides_genome_ge_1k_no_seqs.gff > hyphochytrium_catenoides_genome_map_ids.txt
+
+### Remap Fasta and GFF3
+    ~/maker/bin/map_fasta_ids hyphochytrium_catenoides_genome_map_ids.txt hyphochytrium_catenoides_predicted_proteins_renamed.fasta
+
+    ~/maker/bin/map_gff_ids hyphochytrium_catenoides_genome_map_ids.txt hyphochytrium_catenoides_genome_ge_1k_no_seqs_renamed.gff
+
+### Remove end of line ';' as they will break ANNIE
+    sed -i 's/;$//g' hyphochytrium_catenoides_genome_ge_1k_no_seqs_renamed.gff
 
 ### SwissProt BLASTp
-blastp -query hyphochytrium_catenoides_predicted_proteins_renamed.fasta -db uniprot_sprot.fasta -outfmt 6 -num_threads 24 -evalue 1e-10 -out all_maker_proteins_vs_swissprot_1e-10.tsv
+    blastp -query hyphochytrium_catenoides_predicted_proteins_renamed.fasta -db uniprot_sprot.fasta -outfmt 6 -num_threads 24 -evalue 1e-10 -out all_maker_proteins_vs_swissprot_1e-10.tsv
 
 ### InterProScan
-interproscan.sh -f TSV,XML,GFF3 -goterms -i hyphochytrium_catenoides_predicted_proteins_renamed.fasta -pa | tee interproscan.log
+    interproscan.sh -f TSV,XML,GFF3 -goterms -i hyphochytrium_catenoides_predicted_proteins_renamed.fasta -pa | tee interproscan.log
 
 ## Annie
 
 ### InterproScan
-python3 ~/annie/annie.py -ipr second_pass.all.maker.proteins.fasta.tsv
+    python3 ~/annie/annie.py -ipr second_pass.all.maker.proteins.fasta.tsv
 
 ### BLASTp
-python3 ~/annie/annie.py -b ../all_maker_proteins_vs_swissprot_1e-10.tsv -g ../hyphochytrium_catenoides_genome_ge_1k.gff -db /storage/swissprot/uniprot_sprot.fasta
+    python3 ~/annie/annie.py -b ../all_maker_proteins_vs_swissprot_1e-10.tsv -g ../hyphochytrium_catenoides_genome_ge_1k.gff -db /storage/swissprot/uniprot_sprot.fasta
 
 ## GAG
-The default output of GFF files from MAKER includes the FASTA sequences. GAG does not like this, you have to remove it from the bottom of the file... 
+The default output of GFF files from MAKER includes the FASTA sequences. GAG does not like this, you have to remove it from the bottom of the file...
+```
 python ~/GAG/gag.py --fasta hyphochytrium_catenoides_genome_ge_1k_scaffolds.fasta \
 --gff hyphochytrium_catenoides_genome_ge_1k_no_seqs.gff \
 --anno annie/annie_blast_swissprot_output.tsv \
 --fix_terminal_ns --fix_start_stop --flag_introns_shorter_than 10
+```
 
 ## Convert GFF and FASTA to EMBL
 
 * use EMBOSS tool SEQRET
-* seqret -sequence genome.fasta -feature -fformat gff -fopenfile genome.gff -osformat embl -auto
+    seqret -sequence genome.fasta -feature -fformat gff -fopenfile genome.gff -osformat embl -auto
 * there's still more to do for EBI. Why? Because.
 * It's got to look something like this... EUGH
 * https://www.ebi.ac.uk/ena/submit/scaffold-flat-file
