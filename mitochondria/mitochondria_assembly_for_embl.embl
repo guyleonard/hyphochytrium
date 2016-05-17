@@ -1,17 +1,12 @@
-ID   XXX; SV XXX; linear; mitochondria; XXX; XXX; 48127 BP.
+ID   XXX; XXX; linear; XXX; XXX; XXX; XXX.
 XX
-AC   ;
+AC   XXX;
 XX
 AC * _mitochondria_assembly
 XX
 PR   Project:PRJEB13950;
 XX
 DE   XXX
-XX
-KW   .
-XX
-OS   Hyphochytrium catenoides
-OC   unclassified sequences.
 XX
 FH   Key             Location/Qualifiers
 FH
@@ -1047,4 +1042,4 @@ SQ   Sequence 54000 BP; 16954 A; 7195 C; 7504 G; 16471 T; 5876 other;
      NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN     53880
      NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN     53940
      NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN NNNNNNNNNN     54000
-//
+
