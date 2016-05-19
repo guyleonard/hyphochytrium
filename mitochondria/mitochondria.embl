@@ -17,139 +17,140 @@ FH   Key             Location/Qualifiers
 FH
 FT   source          1..54000
 FT                   /organism="Hyphochytrium catenoides"
+FT                   /strain="ATCC 18719"
 FT                   /mol_type="genomic DNA"
 FT                   /db_xref="taxon:42384"
 FT                   /note="mitochondria_assembly"
 FT   gene            complement(3326..4432)
-FT                   /Name="cob"
+FT                   /gene="cob"
 FT   tRNA            complement(4863..4936)
-FT                   /Name="trnA(tgc)"
+FT                   /gene="trnA(tgc)"
 FT   tRNA            complement(4939..5011)
-FT                   /Name="trnK(ttt)"
+FT                   /gene="trnK(ttt)"
 FT   gene            complement(5074..5352)
-FT                   /Name="nad4l"
+FT                   /gene="nad4l"
 FT   gene            complement(5439..6383)
-FT                   /Name="nad1"
+FT                   /gene="nad1"
 FT   gene            complement(6410..7062)
-FT                   /Name="nad11"
+FT                   /gene="nad11"
 FT   tRNA            complement(8432..8518)
-FT                   /Name="trnS1(gct)"
+FT                   /gene="trnS1(gct)"
 FT   tRNA            complement(8532..8613)
-FT                   /Name="trnY(gta)"
+FT                   /gene="trnY(gta)"
 FT   tRNA            10311..10382
-FT                   /Name="trnM(cat)"
+FT                   /gene="trnM(cat)"
 FT   gene            10582..10794
-FT                   /Name="atp9"
+FT                   /gene="atp9"
 FT   tRNA            13281..13353
-FT                   /Name="trnH(gtg)"
+FT                   /gene="trnH(gtg)"
 FT   rRNA            13802..14704
-FT                   /Name="rrnS"
+FT                   /gene="rrnS"
 FT   tRNA            15454..15525
-FT                   /Name="trnM(cat)"
+FT                   /gene="trnM(cat)"
 FT   gene            15561..15944
-FT                   /Name="rps12"
+FT                   /gene="rps12"
 FT   tRNA            16021..16092
-FT                   /Name="trnW(cca)"
+FT                   /gene="trnW(cca)"
 FT   tRNA            16113..16186
-FT                   /Name="trnN(gtt)"
+FT                   /gene="trnN(gtt)"
 FT   gene            complement(16777..18534)
-FT                   /Name="nad5"
+FT                   /gene="nad5"
 FT   gene            complement(18820..20103)
-FT                   /Name="nad7"
+FT                   /gene="nad7"
 FT   tRNA            complement(20102..20173)
-FT                   /Name="trnM(cat)"
+FT                   /gene="trnM(cat)"
 FT   tRNA            complement(20181..20264)
-FT                   /Name="trnL1(tag)"
+FT                   /gene="trnL1(tag)"
 FT   tRNA            complement(20321..20400)
-FT                   /Name="trnL2(taa)"
+FT                   /gene="trnL2(taa)"
 FT   tRNA            complement(20422..20493)
-FT                   /Name="trnC(gca)"
+FT                   /gene="trnC(gca)"
 FT   gene            complement(20633..20659)
-FT                   /Name="nad4-2"
+FT                   /gene="nad4-2"
 FT   gene            complement(20667..21308)
-FT                   /Name="nad4-1_b"
+FT                   /gene="nad4-1_b"
 FT   tRNA            complement(21298..21370)
-FT                   /Name="trnM(cat)"
+FT                   /gene="trnM(cat)"
 FT   rRNA            complement(21563..22995)
-FT                   /Name="rrnL"
+FT                   /gene="rrnL"
 FT   tRNA            complement(24556..24629)
-FT                   /Name="trnF(gaa)"
+FT                   /gene="trnF(gaa)"
 FT   gene            complement(24657..25289)
-FT                   /Name="rpl5"
+FT                   /gene="rpl5"
 FT   gene            complement(25324..25719)
-FT                   /Name="rpl14"
+FT                   /gene="rpl14"
 FT   tRNA            complement(25724..25796)
-FT                   /Name="trnM(cat)"
+FT                   /gene="trnM(cat)"
 FT   gene            complement(25910..26509)
-FT                   /Name="nad6-0"
+FT                   /gene="nad6-0"
 FT   gene            complement(26590..26994)
-FT                   /Name="rpl16"
+FT                   /gene="rpl16"
 FT   gene            27260..28102
-FT                   /Name="rpl2"
+FT                   /gene="rpl2"
 FT   gene            28110..28511
-FT                   /Name="rps19"
+FT                   /gene="rps19"
 FT   gene            28518..29948
-FT                   /Name="rps3"
+FT                   /gene="rps3"
 FT   gene            29992..30582
-FT                   /Name="rps13"
+FT                   /gene="rps13"
 FT   gene            30446..31438
-FT                   /Name="putative_rps11"
+FT                   /gene="putative_rps11"
 FT   tRNA            31475..31558
-FT                   /Name="trnS2(tga)"
+FT                   /gene="trnS2(tga)"
 FT   tRNA            31562..31635
-FT                   /Name="trnP(tgg)"
+FT                   /gene="trnP(tgg)"
 FT   gene            31671..32072
-FT                   /Name="rps8"
+FT                   /gene="rps8"
 FT   gene            32076..32624
-FT                   /Name="rpl6"
+FT                   /gene="rpl6"
 FT   gene            32624..33439
-FT                   /Name="rps2"
+FT                   /gene="rps2"
 FT   gene            33427..34197
-FT                   /Name="rps4"
+FT                   /gene="rps4"
 FT   gene            34216..34701
-FT                   /Name="rps10"
+FT                   /gene="rps10"
 FT   tRNA            complement(34849..34920)
-FT                   /Name="trnQ(ttg)"
+FT                   /gene="trnQ(ttg)"
 FT   tRNA            34952..35026
-FT                   /Name="trnI(gat)"
+FT                   /gene="trnI(gat)"
 FT   tRNA            35029..35101
-FT                   /Name="trnE(ttc)"
+FT                   /gene="trnE(ttc)"
 FT   tRNA            35104..35176
-FT                   /Name="trnV(tac)"
+FT                   /gene="trnV(tac)"
 FT   tRNA            35210..35281
-FT                   /Name="trnR(tct)"
+FT                   /gene="trnR(tct)"
 FT   tRNA            35395..35468
-FT                   /Name="trnD(gtc)"
+FT                   /gene="trnD(gtc)"
 FT   gene            35751..36251
-FT                   /Name="atp6"
+FT                   /gene="atp6"
 FT   gene            37163..38335
-FT                   /Name="nad4-0"
+FT                   /gene="nad4-0"
 FT   gene            38556..38885
-FT                   /Name="nad3"
+FT                   /gene="nad3"
 FT   gene            39020..39793
-FT                   /Name="cox3"
+FT                   /gene="cox3"
 FT   gene            42342..42422
-FT                   /Name="nad4-1_a"
+FT                   /gene="nad4-1_a"
 FT   gene            42565..43557
-FT                   /Name="nad2"
+FT                   /gene="nad2"
 FT   gene            43857..44492
-FT                   /Name="nad5"
+FT                   /gene="nad5"
 FT   gene            44654..45337
-FT                   /Name="cox2"
+FT                   /gene="cox2"
 FT   gene            46085..47506
-FT                   /Name="cox1"
+FT                   /gene="cox1"
 FT   gene            47786..49447
-FT                   /Name="atp1"
+FT                   /gene="atp1"
 FT   gene            49653..50057
-FT                   /Name="rpl16"
+FT                   /gene="rpl16"
 FT   gene            50130..50291
-FT                   /Name="nad6-2"
+FT                   /gene="nad6-2"
 FT   gene            50273..50434
-FT                   /Name="nad6-1_a"
+FT                   /gene="nad6-1_a"
 FT   gene            50572..50739
-FT                   /Name="nad6-1_b"
+FT                   /gene="nad6-1_b"
 FT   tRNA            50847..50919
-FT                   /Name="trnM(cat)"
+FT                   /gene="trnM(cat)"
 SQ   Sequence 54000 BP; 16954 A; 7195 C; 7504 G; 16471 T; 5876 other;
      nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn        60
      nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn nnnnnnnnnn       120
