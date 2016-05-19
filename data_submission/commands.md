@@ -83,6 +83,8 @@ Either of:
 
 ## Annie
 
+Again, either of:
+
 ### InterproScan
     python3 ~/annie/annie.py -ipr second_pass.all.maker.proteins.fasta.tsv
 
@@ -102,10 +104,12 @@ python ~/GAG/gag.py --fasta hyphochytrium_catenoides_genome_ge_1k_scaffolds.fast
 
 I was going to use this:
 * EMBOSS tool SEQRET
+
     seqret -sequence genome.fasta -feature -fformat gff -fopenfile genome.gff -osformat embl -auto
 
 But it is not great.
 * Therefore I am using [gff3toembl](https://github.com/sanger-pathogens/gff3toembl) instead! Hooray!
+  * gff3toembl expects the gff3 file to have the fasta sequences at the end, so put them back after GAG!
 
 * It is supposed to look something like [this](https://www.ebi.ac.uk/ena/submit/scaffold-flat-file)
-..* However, it doesn't make it clear if the "XXX" marks should be filled in or left blank!
+  * However, it doesn't make it clear if the "XXX" marks should be filled in or left blank!
