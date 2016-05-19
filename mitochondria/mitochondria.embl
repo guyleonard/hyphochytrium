@@ -1,4 +1,4 @@
-ID   XXX; XXX; linear; XXX; XXX; XXX; XXX.
+ID   XXX; SV 1; linear; genomic DNA; STD; UNC; 48127 BP.
 XX
 AC   XXX;
 XX
@@ -9,7 +9,7 @@ XX
 DE   XXX;
 XX
 RN   [1]
-RA   XXX;   
+RA   XXX;
 RT   ;
 RL   Submitted (19-MAY-2016) to the INSDC.
 XX
@@ -19,7 +19,6 @@ FT   source          1..48127
 FT                   /organism="Hyphochytrium catenoides"
 FT                   /strain="ATCC 18719"
 FT                   /mol_type="genomic DNA"
-FT                   /note="mitochondria_assembly"
 FT                   /db_xref="taxon:42384"
 FT   gene            complement(390..1496)
 FT                   /gene="cob"
