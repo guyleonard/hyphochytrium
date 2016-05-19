@@ -5,20 +5,20 @@ They usually will be in FASTA too - including CDS and protenis as Amino Acids - 
 
 However, NCBI/EBI don't want GFF files and they don't really want FASTA files either, that is, if you want to include annotation information e.g. gene predictions.
 
-They have there own format, and NCBI generally uses the SEQUIN Table format and EBI use the EMBL format.
+They have their own format, and NCBI generally uses the SEQUIN Table format and EBI use the EMBL format.
 
-Thereofre you need to convert your FASTA file and file of Gene Features (GFF) to something that might be remotely acceptable for upload, in this case, to EBI.
+Therefore you need to convert your FASTA file and file of Gene Features (GFF) to something that might be remotely acceptable for upload, in this case, to EBI.
 
 It's quite an annoying and complex process, and EBIs help guides are woefully inadequate and miss out a lof of quite useful information (it is incredibly frustrating), so woeful the online help; they organise whole days to help people to upload their data.
 
 Luckily some nice people have already gone through much of these complications and created some nice tools:
 
 * [GAG](https://github.com/genomeannotation/GAG.git) - Genome Annotation Generator
-..* Reads a GFF3 file and converts it to the NCBI table format, not useful to us here, but it does make for a nicer to deal with gff than the one MAKER gives us.
+  * Reads a GFF3 file and converts it to the NCBI table format, not useful to us here, but it does make for a nicer to deal with gff than the one MAKER gives us.
 * [ANNIE](https://genomeannotation.github.io/annie) - ANNotation Information Extractor
-..* to give annotation information to GAG - first we need to do InterProScan and/or SwissProt blasts.
+  * to give annotation information to GAG - first we need to do InterProScan and/or SwissProt blasts.
 * [gff3toembl](https://github.com/sanger-pathogens/gff3toembl) - Converts PROKKA GFF3 files to EMBL files for uploading annotated assemblies to EBI.
-..* Although this is aimed at Prokaryotes, it's quite agnostic in input/output files, therefore we can use it to convert GFF+FASTA to EMBL! YAY :)
+  * Although this is aimed at Prokaryotes, it's quite agnostic in input/output files, therefore we can use it to convert GFF+FASTA to EMBL! YAY :)
 
 Before we can upload a set of scaffold/contigs/genome we need to have uploaded the sequence libraries as BioSamples to a BioProject.
 Our BioProject was already created - PRJEA61035 - which complicates things further
