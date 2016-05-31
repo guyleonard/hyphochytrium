@@ -22,134 +22,199 @@ FT                   /mol_type="genomic DNA"
 FT                   /db_xref="taxon:42384"
 FT   gene            complement(390..1496)
 FT                   /gene="cob"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(1927..2000)
 FT                   /gene="trnA(tgc)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(2003..2075)
 FT                   /gene="trnK(ttt)"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(2138..2416)
 FT                   /gene="nad4l"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(2503..3447)
 FT                   /gene="nad1"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(3474..4126)
 FT                   /gene="nad11"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(5496..5582)
 FT                   /gene="trnS1(gct)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(5596..5677)
 FT                   /gene="trnY(gta)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            7375..7446
 FT                   /gene="trnM(cat)"
+FT                   /locus_tag="BN6634"
 FT   gene            7646..7858
 FT                   /gene="atp9"
+FT                   /locus_tag="BN6634"
 FT   tRNA            10345..10417
 FT                   /gene="trnH(gtg)"
+FT                   /locus_tag="BN6634"
 FT   rRNA            10866..11768
 FT                   /gene="rrnS"
+FT                   /locus_tag="BN6634"
 FT   tRNA            12518..12589
 FT                   /gene="trnM(cat)"
+FT                   /locus_tag="BN6634"
 FT   gene            12625..13008
 FT                   /gene="rps12"
+FT                   /locus_tag="BN6634"
 FT   tRNA            13085..13156
 FT                   /gene="trnW(cca)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            13177..13250
 FT                   /gene="trnN(gtt)"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(13841..15598)
 FT                   /gene="nad5"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(15884..17167)
 FT                   /gene="nad7"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(17166..17237)
 FT                   /gene="trnM(cat)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(17245..17328)
 FT                   /gene="trnL1(tag)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(17385..17464)
 FT                   /gene="trnL2(taa)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(17486..17557)
 FT                   /gene="trnC(gca)"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(17697..17723)
 FT                   /gene="nad4-2"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(17731..18372)
 FT                   /gene="nad4-1_b"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(18362..18434)
 FT                   /gene="trnM(cat)"
+FT                   /locus_tag="BN6634"
 FT   rRNA            complement(18627..20059)
 FT                   /gene="rrnL"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(21620..21693)
 FT                   /gene="trnF(gaa)"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(21721..22353)
 FT                   /gene="rpl5"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(22388..22783)
 FT                   /gene="rpl14"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(22788..22860)
 FT                   /gene="trnM(cat)"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(22974..23573)
 FT                   /gene="nad6-0"
+FT                   /locus_tag="BN6634"
 FT   gene            complement(23654..24058)
 FT                   /gene="rpl16"
+FT                   /locus_tag="BN6634"
 FT   gene            24324..25166
 FT                   /gene="rpl2"
+FT                   /locus_tag="BN6634"
 FT   gene            25174..25575
 FT                   /gene="rps19"
+FT                   /locus_tag="BN6634"
 FT   gene            25582..27012
 FT                   /gene="rps3"
+FT                   /locus_tag="BN6634"
 FT   gene            27056..27646
 FT                   /gene="rps13"
+FT                   /locus_tag="BN6634"
 FT   gene            27510..28502
 FT                   /gene="putative_rps11"
+FT                   /locus_tag="BN6634"
 FT   tRNA            28539..28622
 FT                   /gene="trnS2(tga)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            28626..28699
 FT                   /gene="trnP(tgg)"
+FT                   /locus_tag="BN6634"
 FT   gene            28735..29136
 FT                   /gene="rps8"
+FT                   /locus_tag="BN6634"
 FT   gene            29140..29688
 FT                   /gene="rpl6"
+FT                   /locus_tag="BN6634"
 FT   gene            29688..30503
 FT                   /gene="rps2"
+FT                   /locus_tag="BN6634"
 FT   gene            30491..31261
 FT                   /gene="rps4"
+FT                   /locus_tag="BN6634"
 FT   gene            31280..31765
 FT                   /gene="rps10"
+FT                   /locus_tag="BN6634"
 FT   tRNA            complement(31913..31984)
 FT                   /gene="trnQ(ttg)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            32016..32090
 FT                   /gene="trnI(gat)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            32093..32165
 FT                   /gene="trnE(ttc)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            32168..32240
 FT                   /gene="trnV(tac)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            32274..32345
 FT                   /gene="trnR(tct)"
+FT                   /locus_tag="BN6634"
 FT   tRNA            32459..32532
 FT                   /gene="trnD(gtc)"
+FT                   /locus_tag="BN6634"
 FT   gene            32815..33315
 FT                   /gene="atp6"
+FT                   /locus_tag="BN6634"
 FT   gene            34227..35399
 FT                   /gene="nad4-0"
+FT                   /locus_tag="BN6634"
 FT   gene            35620..35949
 FT                   /gene="nad3"
+FT                   /locus_tag="BN6634"
 FT   gene            36084..36857
 FT                   /gene="cox3"
+FT                   /locus_tag="BN6634"
 FT   gene            39406..39486
 FT                   /gene="nad4-1_a"
+FT                   /locus_tag="BN6634"
 FT   gene            39629..40621
 FT                   /gene="nad2"
+FT                   /locus_tag="BN6634"
 FT   gene            40921..41556
 FT                   /gene="nad5"
+FT                   /locus_tag="BN6634"
 FT   gene            41718..42401
 FT                   /gene="cox2"
+FT                   /locus_tag="BN6634"
 FT   gene            43149..44570
 FT                   /gene="cox1"
+FT                   /locus_tag="BN6634"
 FT   gene            44850..46511
 FT                   /gene="atp1"
+FT                   /locus_tag="BN6634"
 FT   gene            46717..47121
 FT                   /gene="rpl16"
+FT                   /locus_tag="BN6634"
 FT   gene            47194..47355
 FT                   /gene="nad6-2"
+FT                   /locus_tag="BN6634"
 FT   gene            47337..47498
 FT                   /gene="nad6-1_a"
+FT                   /locus_tag="BN6634"
 FT   gene            47636..47803
 FT                   /gene="nad6-1_b"
+FT                   /locus_tag="BN6634"
 FT   tRNA            47911..47983
 FT                   /gene="trnM(cat)"
+FT                   /locus_tag="BN6634"
 XX
 SQ   Sequence 48127 BP; 16954 A; 7195 C; 7504 G; 16471 T; 3 other;
      gtaattgtta aattttcaaa gatatctttg gtttttcttt ggttttgaga agcgagtcat        60
