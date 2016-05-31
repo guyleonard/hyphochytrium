@@ -51,6 +51,7 @@ But we can upload the HiSeq data here - why not complicate it more eh? ;)
 * Also it needs to be GZIPED. Which I found out only after going through all of the web upload and form filling. NOWHERE does it mention this little requirement. FFS.
 * You will also need to prepare MD5 Sums of all your upload files.
 * The other thing that is not mentioned ANYWHERE is that they automatically add the "protein_id" and "translation" qualifiers in the EMBL file from the 'gene' features. So you don't have to add proteins or nucleotides for you genes. That's it though, no CDS or anything else. OK.
+* Yet another thing they don't mention is the "locus_tag" prefix that needs to be given to each "gene" or other entry in your EMBL file. A locus tag prefix is generated when you create a BioProject e.g. BN6634 for me. and it needs to be added belwo the "\gene" tag for each in your EMBL file. e.g \locus_tag="BN6634_XXX" where XXX is an incrementing number with padding - 001, 002..99x9 etc.
 
 ## 2. Genome Submission
  * I want to upload >1Kbp scaffolds + mito
