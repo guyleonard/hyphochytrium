@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg3526"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Hypho_azole_MIC.svg">
+  <defs
+     id="defs3528" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="545.70733"
+     inkscape:cy="851.12198"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3224-7"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3641" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3531">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       id="text3112-1"
+       style="font-size:20.01968575px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Arial"
+       y="347.46271"
+       x="544.45544"
+       xml:space="preserve">(μg/ml)</text>
+    <text
+       id="text3104-7"
+       style="font-size:20.01968575px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Arial"
+       y="347.50732"
+       x="253.1226"
+       xml:space="preserve">Minimum inhibitory concentation</text>
+    <path
+       id="path3090-4"
+       d="m 269.16617,209.6107 122.62057,0 0,50.04922 -122.62057,0 0,-50.04922"
+       style="fill:#00a722;fill-opacity:1;stroke:#000000;stroke-width:1.25123036px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3092-0"
+       d="m 269.16617,148.30041 30.02953,0 0,51.30045 -30.02953,0 0,-51.30045"
+       style="fill:#008a3e;fill-opacity:1;stroke:#000000;stroke-width:1.25123036px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3094-9"
+       d="M 245.39279,244.64515"
+       style="fill:none;stroke:none"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3096-4"
+       style="font-size:20.01968575px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;font-family:Arial"
+       y="244.64516"
+       x="245.39281"
+       xml:space="preserve">Fluconazole</text>
+    <path
+       id="path3098-8"
+       d="M 245.39279,183.33486"
+       style="fill:none;stroke:none"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3100-8"
+       style="font-size:20.01968575px;font-style:normal;font-weight:normal;text-align:end;text-anchor:end;fill:#000000;font-family:Arial"
+       y="183.33484"
+       x="245.39281"
+       xml:space="preserve">Clotrimazole</text>
+    <path
+       id="path3114-2"
+       d="m 269.16617,264.66484 307.80267,0"
+       style="fill:none;stroke:#000000;stroke-width:1.25123036px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3116-4"
+       d="m 269.16617,264.66484 0,11.26107"
+       style="fill:none;stroke:#000000;stroke-width:1.25123036px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3118-5"
+       d="m 423.0675,264.66484 0,11.26107"
+       style="fill:none;stroke:#000000;stroke-width:1.25123036px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3120-5"
+       d="m 576.96884,264.66484 0,11.26107"
+       style="fill:none;stroke:#000000;stroke-width:1.25123036px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3122-1"
+       d="M 269.16617,308.4579"
+       style="fill:none;stroke:none"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3124-7"
+       style="font-size:20.01968575px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Arial"
+       y="308.45789"
+       x="269.1662"
+       xml:space="preserve">0.1</text>
+    <path
+       id="path3126-1"
+       d="M 423.0675,308.4579"
+       style="fill:none;stroke:none"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3128-1"
+       style="font-size:20.01968575px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Arial"
+       y="308.45789"
+       x="423.0675"
+       xml:space="preserve">10</text>
+    <path
+       id="path3130-5"
+       d="M 576.96884,308.4579"
+       style="fill:none;stroke:none"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text3132-2"
+       style="font-size:20.01968575px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;font-family:Arial"
+       y="308.45789"
+       x="576.96887"
+       xml:space="preserve">1000</text>
+    <g
+       id="g3224-7"
+       transform="translate(461.63916,175.47206)">
+      <text
+         id="text3226-6"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-16.812588"
+         x="18.257914"
+         xml:space="preserve">Inhibitor</text>
+      <text
+         id="text3228-1"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-16.812588"
+         x="63.020012"
+         xml:space="preserve"> </text>
+      <text
+         id="text3230-4"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-16.812588"
+         x="104.27413"
+         xml:space="preserve">MIC<tspan
+   style="font-size:7px"
+   id="tspan3643">100</tspan></text>
+      <text
+         id="text3232-2"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-16.812588"
+         x="127.37645"
+         xml:space="preserve"> </text>
+      <text
+         id="text3234-3"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-16.812588"
+         x="140.37675"
+         xml:space="preserve">(</text>
+      <text
+         id="text3236-2"
+         style="font-size:13.80137825px;font-style:italic;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-16.812588"
+         x="144.72719"
+         xml:space="preserve">t</text>
+      <text
+         id="text3238-2"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-16.812588"
+         x="139.52766"
+         xml:space="preserve"> </text>
+      <text
+         id="text3240-1"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-16.812588"
+         x="152.67799"
+         xml:space="preserve">= 7 days)</text>
+      <text
+         id="text3242-6"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-16.812588"
+         x="192.93298"
+         xml:space="preserve"> </text>
+      <text
+         id="text3244-8"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="1.48982"
+         x="13.365055"
+         xml:space="preserve"> </text>
+      <text
+         id="text3246-5"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="2.4566441"
+         x="104.27413"
+         xml:space="preserve">µg ml</text>
+      <text
+         id="text3248-7"
+         style="font-size:8.70086861px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-3.8441854"
+         x="136.37737"
+         xml:space="preserve">-</text>
+      <text
+         id="text3250-6"
+         style="font-size:8.70086861px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="-3.8441854"
+         x="139.07761"
+         xml:space="preserve">1</text>
+      <text
+         id="text3252-1"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="2.2041059"
+         x="143.27803"
+         xml:space="preserve"> </text>
+      <text
+         id="text3254-8"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="2.4566441"
+         x="169.08002"
+         xml:space="preserve">µ</text>
+      <text
+         id="text3256-9"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="2.4566441"
+         x="176.88077"
+         xml:space="preserve">M</text>
+      <text
+         id="text3258-2"
+         style="font-size:13.80137825px;font-style:normal;font-weight:bold;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="2.2041059"
+         x="188.88199"
+         xml:space="preserve"> </text>
+      <text
+         id="text3260-7"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="42.693138"
+         x="18.257914"
+         xml:space="preserve">Fluconazole</text>
+      <text
+         id="text3262-9"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="26.693136"
+         x="79.671669"
+         xml:space="preserve"> </text>
+      <text
+         id="text3264-5"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="42.693138"
+         x="104.27413"
+         xml:space="preserve">4</text>
+      <text
+         id="text3266-4"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="26.693136"
+         x="111.17483"
+         xml:space="preserve"> </text>
+      <text
+         id="text3268-3"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="42.693138"
+         x="169.08002"
+         xml:space="preserve">13.1</text>
+      <text
+         id="text3270-1"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="26.693136"
+         x="193.53244"
+         xml:space="preserve"> </text>
+      <text
+         id="text3272-2"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="23.325016"
+         x="18.257914"
+         xml:space="preserve">Clotrimazole</text>
+      <text
+         id="text3274-3"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="51.896446"
+         x="83.872093"
+         xml:space="preserve"> </text>
+      <text
+         id="text3276-3"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="23.325016"
+         x="104.27413"
+         xml:space="preserve">0.25</text>
+      <text
+         id="text3278-4"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="51.896446"
+         x="128.72658"
+         xml:space="preserve"> </text>
+      <text
+         id="text3280-1"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="23.325016"
+         x="169.08002"
+         xml:space="preserve">0.7</text>
+      <text
+         id="text3282-1"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="51.896446"
+         x="180.48175"
+         xml:space="preserve"> </text>
+      <text
+         id="text3284-3"
+         style="font-size:13.80137825px;font-style:normal;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;font-family:Calibri"
+         y="87.106934"
+         x="152.2222"
+         xml:space="preserve"> </text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.0113771px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.64550261"
+         d="m 105.20541,-11.780377 c 98.51222,-0.114892 98.51222,-0.114892 98.51222,-0.114892"
+         id="path4113-8"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
