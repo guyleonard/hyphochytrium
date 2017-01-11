@@ -1,0 +1,23 @@
+mpiexec -n 1 Ray \
+ -k \
+ 31 \
+ -i \
+ /illumina_hiseq/illumina_hiseq_interleaved_pe.fastq \
+ -s \
+ /illumina_hiseq/illumina_hiseq_singletons.fastq \
+ -s \
+ /illumina_hiseq/illumina_hiseq_singletons.fastq \
+ -i \
+ /illumina_gaii/illumina_gaiix_s1_interleaved_pe.fastq \
+ -i \
+ /illumina_gaii/illumina_gaiix_s2_interleaved_pe.fastq \
+ -s \
+ /illumina_gaii/prinseq_data/illumina_gaiix_s1_1_singletons.fastq \
+ -s \
+ /illumina_gaii/prinseq_data/illumina_gaiix_s1_2_singletons.fastq \
+ -s \
+ /illumina_gaii/prinseq_data/illumina_gaiix_s2_1_singletons.fastq \
+ -s \
+ /illumina_gaii/prinseq_data/illumina_gaiix_s2_2singletons.fastq \
+ -o \
+ ray_K31
