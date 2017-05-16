@@ -1,0 +1,5 @@
+platanus assemble -t 12 -f illumina_hiseq_paired.fastq illumina_hiseq_singletons.fastq illumina_gaii_paired.fastq illumina_gaiix_singletons.fastq 
+
+platanus scaffold -t 12 -c out_contig.fa -b out_contigBubble.fa -ip1 illumina_hiseq_paired.fastq -ip2 illumina_gaii_paired_1.fastq -ip3 illumina_gaii_paired_2.fastq
+
+platanus gap_close -t 12 -c out_scaffold.fa -ip1 illumina_hiseq_paired.fastq -ip2 illumina_gaii_paired_1.fastq -ip3 illumina_gaii_paired_2.fastq
