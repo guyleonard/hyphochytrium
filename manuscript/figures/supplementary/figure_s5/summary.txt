@@ -36,3 +36,4 @@ Residual standard error: 17190 on 981 degrees of freedom
 Number of iterations to convergence: 9 
 Achieved convergence tolerance: 8.894e-06
 
+Link: http://qb.cshl.edu/genomescope/analysis.php?code=t4XjzjykzJbIuXypBbKZ
