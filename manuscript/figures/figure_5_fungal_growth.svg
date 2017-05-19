@@ -18,8 +18,8 @@
    viewBox="0 0 744.09 1052.4"
    enable-background="new 0 0 595.28 841.89"
    xml:space="preserve"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="figure_6_fungal_growth.svg"><metadata
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="figure_5_fungal_growth.svg"><metadata
      id="metadata2039"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -35,16 +35,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1680"
-     inkscape:window-height="972"
+     inkscape:window-width="1858"
+     inkscape:window-height="1057"
      id="namedview2035"
      showgrid="false"
      showguides="false"
      inkscape:zoom="1.4142136"
-     inkscape:cx="446.90711"
-     inkscape:cy="310.61548"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:cx="332.00226"
+     inkscape:cy="819.73235"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="Layer_1"
      units="mm" /><line
@@ -590,72 +590,72 @@
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text215"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="-21.297445"
-     y="709.46307">Exo70 Fig. Sx</text>
+     y="709.46307">Exo70</text>
 <text
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text217"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="8.3417845"
-     y="739.10229">Sec3 Fig. Sx</text>
+     y="739.10229">Sec3</text>
 <text
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text219"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="34.684479"
-     y="765.44495">Sec6 Fig. Sx</text>
+     y="765.44495">Sec6</text>
 <text
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text221"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="-6.4778309"
-     y="724.28271">Exo84 Fig. Sx</text>
+     y="724.28271">Exo84</text>
 <text
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text223"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="60.284702"
-     y="791.04529">Sec10 Fig. Sx</text>
+     y="791.04529">Sec10</text>
 <text
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text225"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="47.939964"
-     y="778.70056">Sec8 Fig. Sx</text>
+     y="778.70056">Sec8</text>
 <text
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text227"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="-148.5957"
-     y="582.08563">SepA/Bni1 Fig. Sx</text>
+     y="582.08563">SepA/Bni1</text>
 <text
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text229"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="-134.86502"
-     y="595.89551">Spa2/Pea1 Fig. Sx</text>
+     y="595.89551">Spa2/Pea1</text>
 <text
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text231"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="-121.30265"
-     y="609.45782">Bud6 Fig. Sx</text>
+     y="609.45782">Bud6</text>
 <text
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text233"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="-75.388557"
-     y="655.37195">Sec4 Fig. Sx</text>
+     y="655.37195">Sec4</text>
 <rect
      style="fill:#2e7d32;stroke:none;stroke-miterlimit:10"
      id="rect237"
@@ -2562,9 +2562,9 @@
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text1063"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="75.11422"
-     y="805.87469">Sec15 Fig. Sx</text>
+     y="805.87469">Sec15</text>
 <text
      font-size="7.92"
      id="text1347"
@@ -2647,9 +2647,9 @@
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text1423"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="20.696413"
-     y="751.45691">Sec5 Fig. Sx</text>
+     y="751.45691">Sec5</text>
 <rect
      style="fill:#2e7d32;stroke:none;stroke-miterlimit:10"
      id="rect1427"
@@ -3076,9 +3076,9 @@
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text1557"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="-40.987648"
-     y="689.77289">Msb3/Msb4 Fig. Sx</text>
+     y="689.77289">Msb3/Msb4</text>
 <rect
      x="452.65"
      y="767.95"
@@ -3216,9 +3216,9 @@
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text1601"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="-60.905529"
-     y="669.85504">Sec2 Fig. Sx</text>
+     y="669.85504">Sec2</text>
 <rect
      x="424.47"
      y="767.95"
@@ -3362,9 +3362,9 @@
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text1721"
-     style="font-size:11.08815px;font-family:Helvetica;fill:#010202"
+     style="font-size:11.08815002px;font-family:Helvetica;fill:#010202"
      x="96.635826"
-     y="827.39636">Cdc42 Fig. Sx</text>
+     y="827.39636">Cdc42</text>
 <rect
      x="647.27"
      y="596.58"
@@ -3568,9 +3568,9 @@
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text1837"
-     style="font-size:11.08815px;font-family:Helvetica"
+     style="font-size:11.08815002px;font-family:Helvetica"
      x="110.2576"
-     y="841.01807">Cdc24 Fig. Sx</text>
+     y="841.01807">Cdc24</text>
 <rect
      x="666.53"
      y="767.95"
@@ -3708,9 +3708,9 @@
      transform="matrix(0.70711,-0.70711,0.70711,0.70711,0,0)"
      font-size="7.9201"
      id="text1899"
-     style="font-size:11.08815px;font-family:Helvetica"
+     style="font-size:11.08815002px;font-family:Helvetica"
      x="123.91898"
-     y="854.60034">Rac1 Fig. Sx</text>
+     y="854.60034">Rac1</text>
 <rect
      x="685.8"
      y="767.88"
