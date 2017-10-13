@@ -17,7 +17,7 @@
    inkscape:version="0.92.0 r15299"
    width="793.69604"
    height="1122.5601"
-   sodipodi:docname="figure_6_cell_wall_synthesis.svg"
+   sodipodi:docname="figure_5_cell_wall_synthesis.svg"
    style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
    inkscape:export-filename="/home/cs02gl/Dropbox/projects/hyphochytrium/riverside/figure_1_hyphochytrium.png"
    inkscape:export-xdpi="600.01379"
@@ -47,9 +47,9 @@
      inkscape:window-height="1057"
      id="namedview203"
      showgrid="false"
-     inkscape:zoom="0.7070997"
-     inkscape:cx="752.14244"
-     inkscape:cy="572.1636"
+     inkscape:zoom="1.99998"
+     inkscape:cx="162.71816"
+     inkscape:cy="550.3268"
      inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -4792,7 +4792,11 @@
        x="36.809814"
        font-size="13.2"
        id="text111-5"
-       style="font-size:19.70666695px;font-family:Ubuntu;stroke:none;stroke-width:1.06666672">A</text>
+       style="font-size:19.70666695px;font-family:Ubuntu;stroke:none;stroke-width:1.06666672">
+      <tspan
+         style="-inkscape-font-specification:'Helvetica LT Std';font-family:'Helvetica LT Std';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan5361">A</tspan>
+    </text>
     <g
        transform="translate(0,0.140992)"
        id="g9262">
@@ -5286,14 +5290,22 @@
          id="text1975"
          font-size="13.2"
          x="377.55389"
-         y="140.98363">B</text>
+         y="140.98363">
+        <tspan
+           style="-inkscape-font-specification:'Helvetica LT Std';font-family:'Helvetica LT Std';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+           id="tspan5363">B</tspan>
+      </text>
     </g>
     <text
        y="530.5918"
        x="35.930882"
        font-size="13.2"
        id="text71-5"
-       style="font-size:19.71121025px;font-family:Ubuntu;stroke:none;stroke-width:1.06666672">C</text>
+       style="font-size:19.71121025px;font-family:Ubuntu;stroke:none;stroke-width:1.06666672">
+      <tspan
+         style="-inkscape-font-specification:'Helvetica LT Std';font-family:'Helvetica LT Std';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         id="tspan5365">C</tspan>
+    </text>
     <text
        xml:space="preserve"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.53317356px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Sans Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
