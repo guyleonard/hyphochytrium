@@ -115,8 +115,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="871.73069"
-     inkscape:cy="378.84612"
+     inkscape:cx="921.49001"
+     inkscape:cy="336.92815"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1084,61 +1084,6 @@
          id="path5218-7-63"
          d="m -135.82028,109.44965 v 71.02713"
          style="fill:#550000;fill-rule:evenodd;stroke:#939dac;stroke-width:0.25828049;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.93710363px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.28221208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="11.287198"
-         y="187.63354"
-         id="text37935-8-36-43-2"><tspan
-           sodipodi:role="line"
-           id="tspan37937-6-89-3-6"
-           x="11.287198"
-           y="187.63354"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.58280516px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';fill:#808080;fill-opacity:1;stroke-width:0.28221208px">Numbers in italics are inferrd from scaffold data.</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.93710363px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.28221208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-155.09213"
-         y="198.95915"
-         id="text37935-8-36-43-2-8"><tspan
-           sodipodi:role="line"
-           id="tspan37937-6-89-3-6-7"
-           x="-155.09213"
-           y="198.95915"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.58280516px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';fill:#808080;fill-opacity:1;stroke-width:0.28221208px">All numbers are from the genome portals of each taxa.</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.93710363px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.28221208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="40.781132"
-         y="192.79916"
-         id="text37935-8-36-43-2-2"><tspan
-           sodipodi:role="line"
-           id="tspan37937-6-89-3-6-5"
-           x="40.781132"
-           y="192.79916"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.58280516px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';text-align:start;text-anchor:start;fill:#808080;fill-opacity:1;stroke-width:0.28221208px">CEGMA: C = Complete, P = Partial</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.93710363px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.28221208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="52.200401"
-         y="197.96478"
-         id="text37935-8-36-43-2-9"><tspan
-           sodipodi:role="line"
-           id="tspan37937-6-89-3-6-51"
-           x="52.200401"
-           y="197.96478"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.58280516px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';fill:#808080;fill-opacity:1;stroke-width:0.28221208px">BUSCO: C = Complete, D = Duplicated, F = Fragmented, M= Missing</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.93710363px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.28221208px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="-190.97395"
-         y="193.69022"
-         id="text37935-8-36-43-2-8-9"><tspan
-           sodipodi:role="line"
-           id="tspan37937-6-89-3-6-7-6"
-           x="-190.97395"
-           y="193.69022"
-           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.58280516px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';text-align:start;text-anchor:start;fill:#808080;fill-opacity:1;stroke-width:0.28221208px">* K-mer estimation</tspan></text>
       <path
          inkscape:connector-curvature="0"
          inkscape:original-d="m 11.95727,109.44965 v 71.02713"
