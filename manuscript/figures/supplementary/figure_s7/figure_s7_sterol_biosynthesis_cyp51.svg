@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.0 r15299"
-   sodipodi:docname="figure_s6_sterol_biosynthesis_cyp51.svg">
+   sodipodi:docname="figure_s7_sterol_biosynthesis_cyp51.svg">
   <defs
      id="defs4">
     <pattern
@@ -25,6 +25,34 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern" />
+    <clipPath
+       id="clipEmfPath1"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path4955"
+         d="M 0,0 L 634.68602,0 L 634.68602,17.923559 L 0,17.923559 z" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-7" />
+    <clipPath
+       id="clipEmfPath1-0"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path5006"
+         d="M 0,0 L 634.68602,0 L 634.68602,17.923559 L 0,17.923559 z" />
+    </clipPath>
+    <pattern
+       y="0"
+       x="0"
+       height="6"
+       width="6"
+       patternUnits="userSpaceOnUse"
+       id="EMFhbasepattern-6" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -33,9 +61,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2648467"
-     inkscape:cx="300.69548"
-     inkscape:cy="1293.2071"
+     inkscape:zoom="1.7887634"
+     inkscape:cx="563.6305"
+     inkscape:cy="1188.2807"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -800,7 +828,7 @@
        y="307.87"
        id="text4579"><tspan
    id="tspan5369"
-   style="font-style:italic">Hyphochytrium catenoides</tspan>  [BN6634_2538]</text>
+   style="font-style:italic">Hyphochytrium catenoides</tspan>  [Hypho2016_00003038]</text>
     <line
        style="font-style:normal;font-weight:normal;font-size:medium;font-family:sans-serif;color-interpolation:auto;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        y2="437.87"
@@ -2865,5 +2893,40 @@
            id="tspan6017-2"
            sodipodi:role="line">&gt;= 80 BS</tspan></text>
     </g>
+    <g
+       id="g5028"
+       clip-path="url(#clipEmfPath1-0)"
+       transform="matrix(0.93754517,0,0,0.93754517,889.22319,296.36372)">
+      <text
+         id="text5026"
+         y="0"
+         x="0"
+         transform="translate(-48.009532,13.762733)"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:16px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan5024"
+           y="0"
+           x="0"
+           sodipodi:role="line"><tspan
+             id="tspan5022"
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:16px;font-family:'Times New Roman';fill:#000000"
+             dy="0"
+             dx="0">878</tspan></tspan></text>
+    </g>
+    <text
+       id="text5034"
+       y="309.26691"
+       x="866.71765"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.00072289px;line-height:125%;font-family:'Times New Roman';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93754518"
+       xml:space="preserve"><tspan
+         id="tspan5032"
+         y="430.6109"
+         x="614.52728"
+         sodipodi:role="line"
+         style="stroke-width:0.93754518"><tspan
+           id="tspan5030"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:15.00072289px;font-family:'Times New Roman';fill:#000000;stroke-width:0.93754518"
+           dy="0"
+           dx="0" /></tspan></text>
   </g>
 </svg>
