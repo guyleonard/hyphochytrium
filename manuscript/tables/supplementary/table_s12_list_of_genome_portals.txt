@@ -1,0 +1,6 @@
+Pythium aphanidermatum,http://protists.ensembl.org/Pythium_aphanidermatum/Info/Index
+Phytophthora sojae,https://genome.jgi.doe.gov/Physo3/Physo3.home.html
+Saprolegnia parasitica,http://protists.ensembl.org/Saprolegnia_parasitica_cbs_223_65/Info/Index
+Thalassiosira pseudonana,https://genome.jgi.doe.gov/Thaps3/Thaps3.home.html
+Nannochloropsis gaditana,http://protists.ensembl.org/Nannochloropsis_gaditana/Info/Index
+Ectocarpus siliculosus,http://bioinformatics.psb.ugent.be/orcae/overview/EctsiV2
