@@ -16,11 +16,11 @@
    width="793.70135"
    height="1122.52"
    viewBox="0 0 793.70135 1122.52"
-   sodipodi:docname="figure_3_viral_phylogeny.svg"
+   sodipodi:docname="figure_7_viral_phylogeny.svg"
    inkscape:version="0.92.0 r15299"><metadata
      id="metadata4491"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs4489"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath4501"><path
@@ -1077,9 +1077,9 @@
      inkscape:window-height="1057"
      id="namedview4487"
      showgrid="false"
-     inkscape:zoom="0.79285891"
-     inkscape:cx="396.85068"
-     inkscape:cy="612.42161"
+     inkscape:zoom="2.2425436"
+     inkscape:cx="123.75383"
+     inkscape:cy="1052.9531"
      inkscape:window-x="54"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -7639,24 +7639,24 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:150px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="24.121838"
-       y="-801.15247"
+       y="-806.89648"
        id="text10325"
        transform="scale(1,-1)"><tspan
          sodipodi:role="line"
          id="tspan10323"
          x="24.121838"
-         y="-801.15247"
-         style="font-size:24px;stroke-width:0.75px">A.</tspan></text>
+         y="-806.89648"
+         style="font-size:16px;stroke-width:0.75px">A.</tspan></text>
 <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:150px;font-family:'Helvetica LT Std';-inkscape-font-specification:'Helvetica LT Std';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="24.121838"
-       y="-92.801796"
+       y="-98.545799"
        id="text10329"
        transform="scale(1,-1)"><tspan
          sodipodi:role="line"
          id="tspan10327"
          x="24.121838"
-         y="-92.801796"
-         style="font-size:24px;stroke-width:0.75px">B.</tspan></text>
+         y="-98.545799"
+         style="font-size:16px;stroke-width:0.75px">B.</tspan></text>
 </g></svg>
